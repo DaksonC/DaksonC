@@ -1,4 +1,4 @@
-## Fala galera...sou Dakson Cruz!! Acabei de chegar na comunidade #Dev 😁
+## Fala galera...sou Dakson Cruz!! 
 
 
 <div align="center">
