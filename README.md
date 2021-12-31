@@ -1,4 +1,4 @@
-## Olá, sou Dakson Cruz!! 
+## Olá, sou Dakson Cruz. ;)
 
 
 <div align="center">
