@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81385265/149690049-1871c375-1254-4fd4-87d0-91b475a546b4.png" />
+</div>
+
+
 ## Olá, sou Dakson Cruz. ;)
 
 
