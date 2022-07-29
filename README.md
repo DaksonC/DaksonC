@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Olá, sou Dakson Cruz ☕💻🚀</h1>
+<h1>Olá, sou Dakson  ☕💻🚀</h1>
 <div/>
 
 <div align="center">
