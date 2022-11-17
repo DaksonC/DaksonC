@@ -1,11 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Dakson+Cruz;I'm+39+years+old;I+from+Ourinhos,+SP;I+study+computer+engineering+at+Univesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaksonC&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=00fff&bg_color=0d1117" alt=" Dakson Cruz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaksonC&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
+</div>
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=DaksonC&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
-<h1>Olá, sou Dakson  ☕💻🚀</h1>
 <div/>
-
-<div align="center">
-     <a href="https://github.com/DaksonC">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaksonC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <div/>
 <div style="display: inline_block"><br>
      
   <img align="center" alt="Dak-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,4 +29,6 @@
      <a href="https://www.linkedin.com/in/dakson-cruz-1867b6b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 <div/>
+     
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
