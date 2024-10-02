@@ -17,8 +17,10 @@
   <img align="center" alt="Dak-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dak-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dak-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Dak-Golang" height="30" width="40" src="https://github.com/user-attachments/assets/5dddafd4-413e-4d40-be07-f412b94c635c">
   
   <img align="center" alt="Dak-Solidity" height="50" width="50" src="https://user-images.githubusercontent.com/81385265/181671282-41440c47-6b8e-4648-af9f-4c7d7e14f70d.svg">
+  
     
      
  ##
